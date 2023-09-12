@@ -10,7 +10,7 @@ responseFromEmailOtp = emailotp.send("toemail@gmail.com")
 print(responseFromEmailOtp["message"])
 
 ``` 
-## -- methods
+## methods
 
 ```python
 emailotp = emailotp()
