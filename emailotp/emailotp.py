@@ -20,8 +20,8 @@
 import requests
 import re
 #initalizing server urls
-server = "https://emailsender.cyclic.cloud"
-url = "https://emailsender.cyclic.cloud/sendEmail"
+server = "https://sendemail.cyclic.app"
+url = "https://sendemail.cyclic.app/sendEmail"
 emailRegexPattern = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,7}\b'
 # class with emailotp name
 class emailotp:

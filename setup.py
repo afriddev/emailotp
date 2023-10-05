@@ -8,7 +8,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '2.1.3'
+VERSION = '2.1.7'
 DESCRIPTION = 'Sending emails and otp verifications is super simple with emailotp'
 LONG_DESCRIPTION = 'A package that allows to send emails to specific email with super simple syntax and fast '
 
